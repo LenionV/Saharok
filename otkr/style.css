@@ -16,7 +16,8 @@ html * {
 
 body {
   overflow: hidden;
-    background: url(bg.jpg) repeat;
+    /* background: url(bg.jpg) repeat; */
+	background-color: #3366CC;
     /* background-size: cover; */
   -webkit-perspective: 1000px;
           perspective: 1000px;
@@ -29,7 +30,7 @@ body {
 
 .card {
   position: absolute;
-  top: 100px;
+  top: 400px;
   left: 50%;
   margin-left: -175px;
   width: 350px;
