@@ -16,8 +16,8 @@ html * {
 
 body {
   overflow: hidden;
-    background: url(bg.jpg) no-repeat;
-    background-size: cover;
+    background: url(bg.jpg) repeat;
+    /* background-size: cover; */
   -webkit-perspective: 1000px;
           perspective: 1000px;
   color: #fff;
